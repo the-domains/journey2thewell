@@ -1,0 +1,28 @@
+name: Journey2theWell
+favicon: null
+layout_spectrum: 0.7230360321700573
+typography_spectrum: 0.8294779618736356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0662086287047714
+  lightness: 0.04798014368861914
+  saturation: 0.6406643772497773
+  rhythmicContrast: 0.7116463710553944
+purpose: []
